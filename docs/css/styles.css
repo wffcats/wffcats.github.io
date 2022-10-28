@@ -304,7 +304,7 @@ button:not(:disabled),
 }
 
 .card-body {
-  flex: 1 1 auto;
+  flex: 2 2 auto;
   padding: 1rem 1rem;
 }
 
@@ -381,6 +381,14 @@ button:not(:disabled),
 }
 
 .fw-bolder {
+  font-weight: bolder !important;
+}
+.fw-bolder-adopted {
+  font-size: 20;
+  font-style: oblique;
+  background-color: var(--bs-red);
+  color: white;
+  
   font-weight: bolder !important;
 }
 
