@@ -386,7 +386,7 @@ button:not(:disabled),
 .fw-bolder-adopted {
   font-size: 20;
   font-style: oblique;
-  background-color: var(--bs-red);
+  background-color: #dc3545;
   color: white;
   
   font-weight: bolder !important;
